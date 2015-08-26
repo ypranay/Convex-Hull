@@ -1,0 +1,78 @@
+M (Chunk Size): 1
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(2,0) 
+Convex Hull for Hull #2 (Obtained using Graham Scan!!)
+(2,1) 
+Convex Hull for Hull #3 (Obtained using Graham Scan!!)
+(1,1) 
+Convex Hull for Hull #4 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 1
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(2,0) 
+Convex Hull for Hull #2 (Obtained using Graham Scan!!)
+(2,1) 
+Convex Hull for Hull #3 (Obtained using Graham Scan!!)
+(1,1) 
+Convex Hull for Hull #4 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 2
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) (2,0) (1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(2,1) (1,1) (2,1) 
+Convex Hull for Hull #2 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 3
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) (2,0) (2,1) (1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(0,0) (1,1) (0,0) 
+
+M (Chunk Size): 1
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(2,0) 
+Convex Hull for Hull #2 (Obtained using Graham Scan!!)
+(2,1) 
+Convex Hull for Hull #3 (Obtained using Graham Scan!!)
+(1,1) 
+Convex Hull for Hull #4 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 2
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) (2,0) (1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(2,1) (1,1) (2,1) 
+Convex Hull for Hull #2 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 3
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) (2,0) (2,1) (1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(0,0) (1,1) (0,0) 
+
+M (Chunk Size): 4
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(1,0) (2,0) (2,1) (1,1) (1,0) 
+Convex Hull for Hull #1 (Obtained using Graham Scan!!)
+(0,0) 
+
+M (Chunk Size): 5
+Convex Hull for Hull #0 (Obtained using Graham Scan!!)
+(0,0) (2,0) (2,1) (1,1) (0,0) 
+
+---------After Using Chan's Algorithm---------------
+
+***************** CONVEX HULL **********************
+(0,0) (2,0) (2,1) (1,1) (0,0) 
